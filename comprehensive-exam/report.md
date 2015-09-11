@@ -124,9 +124,9 @@ and Probability
 Theory of computation and basic                    CS340
 Complexity theory
 
-Computer Architecture                              CS420
+Computer Architecture                              CS422
 
-Operating System                                   CS320
+Operating System                                   CS330
 
 Databases                                          CS315
 
