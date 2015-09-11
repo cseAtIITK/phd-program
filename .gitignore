@@ -7,6 +7,10 @@
 *.out
 *.toc
 
+## phd-program.tex is generated so ignore it.
+phd-program.tex
+phd-program.pdf
+
 ## Intermediate documents:
 *.dvi
 *-converted-to.*
