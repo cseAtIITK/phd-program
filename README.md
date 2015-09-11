@@ -2,6 +2,28 @@
 
 This repository contains all the details of our Ph.D program.
 
+## Generating the pdf document.
+
+Markdown is a light weight text format which is rendered beautifully
+on github and other hosting sites. You can also convert the resulting
+document to pdf for which you need the following.
+
+- [pandoc]
+
+- [LaTeX]
+
+- [GNUMake]
+
+Most distributions of Unix come with pre-built packages and hence you
+can use your system package manager to install them.
+
+You can then use the following make commands
+
+```
+$ make         # Build the pdf document
+$ make clean   # Clean up the intermediate files.
+```
+
 ## Contributing.
 
 You can contribute to our GitHub repository and report bugs to our
@@ -25,3 +47,7 @@ LICENCES for the details. If you wish to contribute, then you should
 agree to the terms and conditions spelt there. Further, any
 contribution to this repository via a pull request will be treated as
 implicitly agreeing to our policy regarding the contents.
+
+[pandoc]: <http://pandoc.org>
+[LaTeX]:  <http://www.latex-project.org/>
+[GNUMake]:<https://www.gnu.org/software/make/>
