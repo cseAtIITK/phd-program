@@ -111,35 +111,22 @@ We now give a list of undergraduate courses which can be used to remedy
 deficiency in breadth
 
 
+| Topics                                            | Remedial Courses |
+|:--------------------------------------------------|:-----------------|
+| Algorithms and Data Structures                    | CS345            |
+| Combinatorics, Mathematical Logic and Probability | CS202 and CS203  |
+| Theory of computation and basic Complexity theory | CS340            |
+| Computer Architecture                             | CS422            |
+| Operating System                                  | CS330            |
+| Databases                                         | CS315            |
+| Computer Networks                                 | CS425            |
+| Compilers and Language Translators                | CS335            |
+| AI and Machine Learning                           | CS665            |
 
--------------------------------------------------------------------------
-Topics                                             Suggested
-                                                   Remedial Courses
------------------------------------                ----------------------
-Algorithms and Data Structures                     CS345
 
-Combinatorics, Mathematical Logic                  CS202 and CS203
-and Probability
+  : Topics for comprehensive exam and the corresponding remedial
+    courses
 
-Theory of computation and basic                    CS340
-Complexity theory
-
-Computer Architecture                              CS422
-
-Operating System                                   CS330
-
-Databases                                          CS315
-
-Computer Networks                                  CS425
-
-Compilers and Language Translators                 CS335
-
-AI and Machine Learning                            CS665
-
--------------------------------------------------------------------------
-
-Table: Topics for comprehensive exam and the corresponding remedial
-courses
 
 ### Wavier for breadth requirement.
 
