@@ -160,9 +160,9 @@ Testing comprehension skills
 :   The candidate is asked to read a few papers. She then has to
     summarise the results in an oral presentation in front of the
     examination committee. The choice of the papers should be such
-    that it is not in her specific area of research area. However,
-    choosing papers that are completely orthogonal to her area is also
-    not desirable.
+    that it is *not* in her specific research area. However, choosing
+    papers that are completely orthogonal to her area is also not
+    desirable.
 
 
 Testing communication skills
