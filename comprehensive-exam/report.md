@@ -40,12 +40,12 @@ three* of the following areas of computer science:
 
 To demonstrate her competence, the candidate chooses any three of the
 above topics and the comprehensive committee evaluates the candidate
-by conducting a written exam. The duration of the exam is 1 hours and
-30 minutes.  and will be once every *TODO fix the exam cycle*.  The
-students *need not* clear all the three requirement in a single
-sitting and can stagger it across different semester of her program
-provided the time limit for passing comprehensive exams does not
-expire.
+by conducting a written exam. The duration of the exam will be 1 hours
+30 minutes and will be once every *so many semesters*\todo{Fix the
+exam cycle}.  The students *need not* clear all the three requirement
+in a single sitting and can stagger it across different semester of
+her program provided the time limit for passing comprehensive exams
+does not expire.
 
 The examination committee which sets the question paper should make
 sure that the difficulty level is reasonable. In particular, the exam
@@ -60,22 +60,22 @@ committee, topics may be offered based on various courses taught at
 the high undergraduate level (300 or higher) or graduate level (600 or
 higher) in our department.
 
-The syllabus for the various topics is given in appendix **TODO to be
-filed in by the syllabus committee**
+The syllabus for the various topics is given in appendix
+\ref{sec-syllabus-comprehensive}\todo{to be done by the syllabus
+committee}
 
-TODO notes
-:   It was also proposed that the committee formed for each of these
-    topics must provide a very specific syllabus to the students in
-    order for them to prepare. An open ended syllabus, e.g. whatever
-    an undergraduate course on these topics contain, is not preferred
-    by the students, and the committee felt that having a very
-    specific list of subtopics that the students have to prepare on,
-    must be specified. There were some discussions on fixing specific
-    books for each, but the committee did not feel the need for
-    that. However, committee suggested that some example reference
-    books, or even notes of specific courses associated with the
-    subject/area could be made available to the students to help them
-    prepare for the exams.
+\todo[inline]{While setting the syllabus, the committee formed for
+	each of these topics must provide a very specific syllabus to the
+	students in order for them to prepare. An open ended syllabus,
+	e.g. whatever an undergraduate course on these topics contain, is
+	not preferred by the students, and the committee felt that having
+	a very specific list of subtopics that the students have to
+	prepare on, must be specified. There were some discussions on
+	fixing specific books for each, but the committee did not feel the
+	need for that. However, committee suggested that some example
+	reference books, or even notes of specific courses associated with
+	the subject/area could be made available to the students to help
+	them prepare for the exams.  }
 
 ### Evaluation.
 
@@ -130,18 +130,18 @@ deficiency in breadth
 
 ### Wavier for breadth requirement.
 
-**TODO:**
-
+\todo[inline]{
 Overall summary
-
 1. Give waiver to B.Techs from IIT Kanpur who have done the prescribed
    course already and obtained a B.
-
 2. Some modalities to recognise degrees from other places.
+}
+
 
 ## Depth requirement.
 
-**TODO: rather than depth I guess the idea here is research methodology**
+\todo{The stuff here does not seem to test the depth but research
+methodology. Maybe we should rename section}
 
 Having demonstrated the breadth of her knowledge in Computer Science,
 a candidate needs to prove here depth in the topic that she wishes to

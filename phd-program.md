@@ -5,4 +5,5 @@ author:
     - Indian Institute of Technology Kanpur.
 ---
 
+\listoftodos
 \include{./comprehensive-exam/report}
