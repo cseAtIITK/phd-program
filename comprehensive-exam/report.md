@@ -61,10 +61,10 @@ the high undergraduate level (300 or higher) or graduate level (600 or
 higher) in our department.
 
 The syllabus for the various topics is given in appendix
-\ref{sec-syllabus-comprehensive}\todo{to be done by the syllabus
-committee}
+\ref{sec-syllabus-comprehensive}
 
-\todo[inline]{While setting the syllabus, the committee formed for
+\todo[inline]{Fix the syllabus: To be done by the syllabus
+	committee. While setting the syllabus, the committee formed for
 	each of these topics must provide a very specific syllabus to the
 	students in order for them to prepare. An open ended syllabus,
 	e.g. whatever an undergraduate course on these topics contain, is
@@ -130,7 +130,7 @@ deficiency in breadth
 
 ### Wavier for breadth requirement.
 
-\todo[inline]{
+\todo[inline]{Fix the rules for wavier of breadth requirement.
 Overall summary
 1. Give waiver to B.Techs from IIT Kanpur who have done the prescribed
    course already and obtained a B.
@@ -140,8 +140,9 @@ Overall summary
 
 ## Depth requirement.
 
-\todo{The stuff here does not seem to test the depth but research
-methodology. Maybe we should rename section}
+\todo{Find a better name for this section. The stuff here does not
+seem to test the depth but research methodology. Maybe we should
+rename section}
 
 Having demonstrated the breadth of her knowledge in Computer Science,
 a candidate needs to prove here depth in the topic that she wishes to
